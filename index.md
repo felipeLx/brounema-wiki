@@ -5,7 +5,7 @@ title: Home
 
 # Brounema — Documentação
 
-Sistema de gestão para as lojas Brounema: controle de vendas, manutenção, fornecedores e RH.
+Sistema de gestão para as lojas Brounema: dashboard, lista de operações diárias, controle de vendas, manutenção, fornecedores, RH, concessionárias, calendário, admin, compras, reservas
 
 ## Páginas
 
