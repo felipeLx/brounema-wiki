@@ -22,7 +22,3 @@ Sistema de gestão para as lojas Brounema: controle de vendas, manutenção, for
 | Flamengo | Restaurante | Salão (Colibri) + Delivery (manual) |
 | Barra | Restaurante | Salão (Colibri) + Delivery (manual) |
 | Nema | Padaria | Delivery + Balcão (Saipos) |
-
-## Stack
-
-React Router 7 + Cloudflare Workers + Supabase + Tailwind CSS.

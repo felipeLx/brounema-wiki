@@ -7,21 +7,13 @@ title: Arquitetura
 
 # Arquitetura
 
-## Stack
+## Camadas do sistema
 
-| Camada | Tecnologia |
-|---|---|
-| Frontend/SSR | React Router 7 |
-| Hospedagem | Cloudflare Workers |
-| Banco de dados | Supabase (Postgres) |
-| Estilo | Tailwind CSS v4 |
-| Build | Vite + `@cloudflare/vite-plugin` |
-
-## Por que essa stack
-
-- Cloudflare Workers: edge, rápido, sem servidor pra manter.
-- Supabase: Postgres gerenciado + auth pronta.
-- React Router 7 SSR: uma única base de código pra UI e rotas.
+- Frontend / SSR
+- Hospedagem em nuvem
+- Banco de dados
+- Estilo e interface
+- Build e deploy
 
 ## Integrações externas (POS)
 
