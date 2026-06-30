@@ -1,4 +1,9 @@
-[← Voltar](index.md)
+---
+layout: default
+title: Como Usar
+---
+
+[← Voltar](./)
 
 # Como Usar
 

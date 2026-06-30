@@ -1,4 +1,9 @@
-[← Voltar](index.md)
+---
+layout: default
+title: Arquitetura
+---
+
+[← Voltar](./)
 
 # Arquitetura
 
